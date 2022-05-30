@@ -197,10 +197,9 @@ body {
 }
 
 .footer {
-  text-align: center;
   color: #33335f;
-  position: absolute;
-  bottom: 20px;
+  padding: 10px;
+  text-align: center;
 }
 
 /*Desktop*/

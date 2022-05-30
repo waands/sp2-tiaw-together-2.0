@@ -139,6 +139,7 @@ main {
 
 /*cabecalho + footer*/
 
+
 body {
   background-color: #f6f6f9 !important;
 }
@@ -204,10 +205,9 @@ body {
 }
 
 .footer {
-  text-align: center;
   color: #33335f;
-  position: absolute;
-  bottom: 20px;
+  padding: 10px;
+  text-align: center;
 }
 
 /*Desktop*/
